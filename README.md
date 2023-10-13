@@ -17,7 +17,9 @@
 
 :boom: Agora digite no terminal npm run dev (para rodar o projeto).
 
-:boom: Importante! o caminho para a pasta do projeto deverá ficar assim  ~/nome do seu computador/pasta que criou/lembrete-app-dti/ts
+:boom: Importante! o caminho para a pasta do projeto deverá ficar assim  ~/nome do seu computador/pasta que criou/lembrete-app-dti/ts 
+
+:point_right: Note que os arquivos são visualizados na branch Master neste repositório.
 
 :sparkles: Observações sobre o projeto:
 
